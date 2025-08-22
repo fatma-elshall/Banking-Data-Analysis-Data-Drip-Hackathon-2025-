@@ -8,13 +8,13 @@ The purpose of this project is to analyze customer, card, and transaction data f
 
 * Loan eligibility – identifying customers with high potential for loan approval.
 
-## The ultimate goal is to enable the bank to reduce risk, improve credit policies, and increase customer engagement and profitability.
+### The ultimate goal is to enable the bank to reduce risk, improve credit policies, and increase customer engagement and profitability.
 
-## Dashboard link in Tableau puplic: 
+### Dashboard link in Tableau puplic: 
 
 https://public.tableau.com/views/BankdataanalysisHackathonDatadrip/Transactions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Dataset link :
+### Dataset link :
 
 https://drive.google.com/drive/folders/1D6g7s_HsD2TpgVbJc6K1QjT3q4xRv0pv?usp=drive_link
 
@@ -178,7 +178,7 @@ Use demographic and geographic insights to design targeted marketing campaigns (
 
 Reduce transaction error rates by enabling balance alerts and strengthening fraud detection algorithms.
 
-##  Conclusion
+###  Conclusion
 
 This project successfully integrates data from users, cards, and transactions to build actionable dashboards in Tableau. The analysis provides the bank with clear strategies to:
 
